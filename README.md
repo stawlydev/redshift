@@ -12,7 +12,7 @@ Activity
 More will be added in the near future.
 
 
-⚡️ Como contribuir
+# ⚡️ Como contribuir
 Faça um fork desse repositório;
 Crie uma branch com a sua feature: git checkout -b minha-feature;
 Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
