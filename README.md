@@ -1,6 +1,5 @@
-# redshift
+# 🤖 redshift
 
-🤖 redshift
 Redshift is a discord bot geared towards helping the Capital Network. this is a bot dedicated to a specific server, but you can use and use it for yours. 🤙
 
 Functionalities
