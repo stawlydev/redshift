@@ -1,0 +1,29 @@
+{
+  "name": "redshift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rocketmta/redshift.git",
+  "author": "Vítor Ribeiro <buss.vitorsheik@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "better-sqlite3": "^7.5.3",
+    "blueapi": "^0.1.0",
+    "blueapi.js": "^0.0.4",
+    "canvas": "^2.9.1",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "node-json-db": "^1.5.0",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "sucrase": "^3.21.0"
+  }
+}
